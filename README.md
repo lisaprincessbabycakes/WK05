@@ -5,7 +5,7 @@ WK05A
 I envisioned a clock made up of multiple circles that each increase and change in size at different time rates—milliseconds, seconds, minutes, and hours. My goal was to create a visually engaging experience, so I selected a color palette that draws inspiration from the rainbow but uses softer, more soothing tones. This way, the colors are gentle on the eyes while still being vibrant and lively. I wanted the clock to not only tell time but also to be a captivating piece of art that brings a sense of calm and joy.
 
 
-
+[![Screenshot-2024-10-14-at-2-25-19-PM.png](https://i.postimg.cc/tTbxmmQW/Screenshot-2024-10-14-at-2-25-19-PM.png)](https://postimg.cc/KK9j1fY8)
 
 
 WK05B
